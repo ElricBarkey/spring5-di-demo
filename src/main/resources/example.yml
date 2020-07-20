@@ -1,0 +1,38 @@
+# this is a comment
+#used to describe data structures
+
+name: Elric
+
+names: #Comment
+  - Elro
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+  author: elro duke
+  publisher: random house
+
+truth: yes
+
+another_true: True
+
+more_true: true
+
+false: no #no , false, FALSE
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one two three"
+
+include_new_lines: |
+  asdf asdf
+  asdf
+  asdf adf
+  asdf
+
+ignore_new_lines: >
+  this is
+  just on long
+  string
